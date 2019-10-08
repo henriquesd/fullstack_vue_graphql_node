@@ -40,3 +40,10 @@ npm install bootstrap --save
 ```
 npm install font-awesome --save
 ```
+
+
+### Plugins for VSCode:
+```
+ESLint
+Vetur
+```
